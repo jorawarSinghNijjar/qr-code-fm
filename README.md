@@ -30,4 +30,4 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Author
 
 - Website - [Jorawar Singh](https://www.jorawarsinghs.com)
-- Frontend Mentor - [@jorawarSinghNijjar](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@jorawarSinghNijjar](https://www.frontendmentor.io/profile/jorawarsinghnijjar)
